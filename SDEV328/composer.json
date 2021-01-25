@@ -1,0 +1,12 @@
+{
+    "name": "eleacarl/328/hello",
+    "authors": [
+        {
+            "name": "Eleanor",
+            "email": "ecarl@mail.greenriver.edu"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree-core": "dev-master"
+    }
+}
